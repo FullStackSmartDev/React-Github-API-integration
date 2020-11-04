@@ -1,0 +1,12 @@
+
+# Dependency directories
+node_modules/
+
+# builds
+build
+
+.vscode
+.DS_Store
+.env
+.idea
+public
